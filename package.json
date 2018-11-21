@@ -1,0 +1,24 @@
+{
+  "name": "img-crop-upload",
+  "version": "1.0.0",
+  "description": "image crop and upload",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1161906592/img-crop-upload.git"
+  },
+  "keywords": [
+    "image",
+    "crop",
+    "upload",
+    "vue",
+    "component",
+    "element-ui"
+  ],
+  "author": "一禅",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1161906592/img-crop-upload/issues"
+  },
+  "homepage": "https://github.com/1161906592/img-crop-upload#readme"
+}
